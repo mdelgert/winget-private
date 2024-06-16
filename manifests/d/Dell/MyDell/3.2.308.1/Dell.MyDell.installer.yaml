@@ -1,0 +1,21 @@
+# Created with YamlCreate.ps1 v2.4.1 $debug=NVS0.CRLF.5-1-22621-3672.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: Dell.MyDell
+PackageVersion: 3.2.308.1
+InstallerLocale: en-US
+InstallerType: exe
+Scope: machine
+InstallModes:
+- interactive
+InstallerSwitches:
+  Silent: /s
+  SilentWithProgress: /s
+UpgradeBehavior: install
+ReleaseDate: 2024-04-01
+Installers:
+- Architecture: x64
+  InstallerUrl: https://dl.dell.com/FOLDER11441734M/1/MyDell-Application-Full-Installer_NKGPD_WIN_3.2.308.1_A00.EXE
+  InstallerSha256: C5D05E80A33FBA4BE6802A8A239106AA9D1A7EE0F2BD29B5CEDC5BD6ADE4A9D3
+ManifestType: installer
+ManifestVersion: 1.6.0

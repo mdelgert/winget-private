@@ -1,0 +1,28 @@
+# Created with YamlCreate.ps1 v2.4.1 $debug=NVS0.CRLF.5-1-22621-3672.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: Dell.MyDell
+PackageVersion: 3.2.308.1
+PackageLocale: en-US
+Publisher: Dell Inc.
+PublisherUrl: https://www.dell.com/support/home/en-us/product-support
+PublisherSupportUrl: https://www.dell.com/support/home/en-us
+PrivacyUrl: https://www.dell.com/learn/us/en/uscorp1/policies-privacy
+Author: Matthew Elgert
+PackageName: My Dell
+PackageUrl: https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=nkgpd&oscode=w2021&productcode=xps-15-9530-laptop
+License: Proprietary
+LicenseUrl: https://www.dell.com/learn/us/en/uscorp1/terms-of-sale-consumer-license-agreements
+Copyright: Copyright (c) Dell Inc.
+# CopyrightUrl:
+ShortDescription: This package contains the MyDell Application - Full Installer.
+Description: This package contains the MyDell Application - Full Installer. MyDell is an application that enables you to personalize the sound, display, and battery performance of your system. It adapts to your behavior and environment to automatically fine-tune system settings to improve your experience and productivity. This update addresses the Dell Security Advisories (DSA). A security advisory is a statement when a security vulnerability impacts a product, and a remedy is available for the vulnerability.
+Moniker: Mydell
+# Tags:
+# ReleaseNotes:
+# ReleaseNotesUrl:
+# PurchaseUrl:
+# InstallationNotes:
+# Documentations:
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
