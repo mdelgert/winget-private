@@ -5,6 +5,7 @@ https://github.com/microsoft/winget-pkgs/blob/master/doc/tools/YamlCreate.md
 https://blogs.infosupport.com/hosting-your-own-winget-private-repository/
 https://blogs.infosupport.com/adding-a-package-to-your-private-winget-restsource-feed-using-its-api/
 https://github.com/microsoft/winget-create
+https://github.com/omaha-consulting/winget.pro
 
 ```PS (As Admin)
 cd Tools
